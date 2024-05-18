@@ -45,7 +45,7 @@ export const GallryData = [
     dec: "Bakery, Fast Food, Pizzas, ChineseJhotwara",
     price: "₹200 ",
     category: "Cake",
-    Img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/972a37599772cdc7df93a0855ad87591",
+    Img: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/u4o3qt6bbtqrzdvzz4kp"
   },
   {
     id: 7,
